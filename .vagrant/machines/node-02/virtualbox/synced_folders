@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/maxp/Insync/maxjeison@gmail.com/Google Drive/PROJETOS/vagrant-cluster","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
